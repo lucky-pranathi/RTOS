@@ -19,4 +19,4 @@ RTOS: FreeRTOS
 
 IDEs: Arduino IDE
 
-Languages: C
+Languages: C++
